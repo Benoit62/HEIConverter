@@ -53,5 +53,5 @@ Finaly, when the execution is done, the output folder is opened in your folder e
 
 ## Screenshots
 
-![App Screenshot](images/test.jpg)
+![App Screenshot](images/test.png)
 
