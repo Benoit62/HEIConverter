@@ -8,8 +8,12 @@ Small python application that allow you to convert a folder (including all subfo
 
 - [@Benoît Wattinne](https://www.github.com/Benoit62)
 
+## Installation
 
-## Deployment
+Download the .exe file in the Release section.
+Windows will trigger security messages while trying to execute the programm. You can bypass them if you trust me, otherwise, see #Self-deployement
+
+## Self deployment
 
 To deploy this project, you need to have Python installed on your PC. You can donwload it [here](https://www.python.org/downloads/ "here")
 
