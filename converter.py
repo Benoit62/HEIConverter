@@ -122,6 +122,7 @@ def add_stats(total_files, procceded_files):
 
 # Création de la fenêtre principale
 root = tk.Tk()
+windll.shcore.SetProcessDpiAwareness(1)
 root.title("Convertir les images HEIC en JPG")
 root.geometry("720x480")
 root.config(background="#4065A4")
