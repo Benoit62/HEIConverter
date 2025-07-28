@@ -57,13 +57,11 @@ Finaly, when the execution is done, the output folder is opened in your folder e
 
 ## Improvements
 
-- Naming output folder using input folder name
-- Give it a better visual (modernity, purification, scaling, photos overview, etc.)
 - Possibility of choosing individual files instead of entire folder
-- Setting to choose the defaut output folder location (inside input folder, inside parent input folder)
 - Setting to choose to save images individualy in the input folder (next to legacy images)
+- Better conversion progress tracking with preview
 
 ## Screenshots
 
-![App Screenshot](test.png)
+![App Screenshot](application.png)
 
