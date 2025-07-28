@@ -55,6 +55,14 @@ When done, the conversion while start. You can see the progress of the conversio
 
 Finaly, when the execution is done, the output folder is opened in your folder explorer to see the result.
 
+## Improvements
+
+- Naming output folder using input folder name
+- Give it a better visual (modernity, purification, etc.)
+- Possibility of choosing individual files instead of entire folder
+- Setting to choose the defaut output folder location (inside input folder, inside parent input folder)
+- Setting to choose to save images individualy in the input folder (next to legacy images)
+
 ## Screenshots
 
 ![App Screenshot](test.png)
